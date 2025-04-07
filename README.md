@@ -6,7 +6,7 @@ Test your memory by following and repeating an ever-growing sequence of colors!
 - Classic Simon Says gameplay.
 - Memory-based sequence repetition.
 - Score tracking to test your memory strength.
-- 
+
 Technologies Used : 
 - HTML5– for structuring the layout
 - CSS3 – for styling and responsive design
